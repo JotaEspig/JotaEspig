@@ -1,22 +1,20 @@
-# About me
-
-- 👋 Hi, I’m @JotaEspig
-- 👨‍🎓 I'm currently a **computer student** at [Instituto Federal Catarinense](https://ifc.edu.br/) (IFC)
-- 👀 I’m interested in Python, Ethical Hacking and APIs.
-- 🌱 I’m currently learning Numpy (Python), Cython (Python), basics of ethical hacking, etc...
-- 💞️ I’m looking to collaborate on everything I can
-- 📫 How to reach me: 
-  Discord: JotaEspig#4394
-
-<hr>
-
->_"No man ever steps in the same river twice, for it's not the same river and he's not the same man."_
->
->**Heraclitus of Ephesus**
->
-
->_"A man, slave to gold, holds a whip… 
->And beats the slave he bought with that gold as if to claim he is the master. 
->He just doesn’t see it for himself. Every living human being is a slave to something."_
->
->**Askeladd ([Vinland Saga](https://en.wikipedia.org/wiki/Vinland_Saga_(manga)))**
+<body>
+    <h1>👋 Hi, I'm João Vitor Espig</h1>
+    <div>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotaespig&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaespig&layout=compact&langs_count=4&theme=github_dark"/>
+    </div>
+    <div style="display: inline_block"><br>
+        <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </div>
+    <hr>
+    <div>
+        <ul>
+            <li>👨‍ I'm currently a <b>computer student</b> at <a href="https://ifc.edu.br/)">Instituto Federal Catarinense</a>(IFC)</li>
+            <li>👀 I’m interested in <b>Python</b>, <b>Ethical Hacking</b> and <b>APIs</b>.</li>
+            <li>🌱 I’m currently learning Numpy (Python), Cython (Python), basics of ethical hacking, etc...</li>
+            <li>💞️ I’m looking to collaborate on everything I can</li>
+            <li>📫 How to reach me: Discord: JotaEspig#4394</li>
+        </ul>
+    </div>
+</body>
