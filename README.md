@@ -10,7 +10,7 @@
     <hr>
     <div>
         <ul>
-            <li>👨‍ I'm currently a <b>computer student</b> at <a href="https://ifc.edu.br/">Instituto Federal Catarinense</a>(IFC)</li>
+            <li>👨‍ I'm currently a <b>computer student</b> at <a href="https://ifc.edu.br/" target="_blank">Instituto Federal Catarinense</a>(IFC)</li>
             <li>👀 I’m interested in <b>Python</b>, <b>Ethical Hacking</b> and <b>APIs</b>.</li>
             <li>🌱 I’m currently learning Numpy (Python), Cython (Python), basics of ethical hacking, etc...</li>
             <li>💞️ I’m looking to collaborate on everything I can</li>
