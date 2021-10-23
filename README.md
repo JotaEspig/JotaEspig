@@ -1,8 +1,8 @@
 <body>
     <h1>👋 Hi, I'm João Vitor Espig</h1>
     <div>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jotaespig&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaespig&layout=compact&langs_count=5&theme=github_dark">
+        <img height="169em" src="https://github-readme-stats.vercel.app/api?username=jotaespig&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+        <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaespig&layout=compact&langs_count=5&theme=github_dark">
     </div>
     <div style="display: inline_block"><br>
         <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
