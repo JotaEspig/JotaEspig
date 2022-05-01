@@ -13,8 +13,8 @@
     <div>
         <ul>
             <li>👨‍ I'm currently a <b>computer student</b> at <a href="https://ifc.edu.br/" target="_blank">Instituto Federal Catarinense</a> (IFC)</li>
-            <li>👀 I’m interested in <b>Python</b>, <b>Ethical Hacking</b> and <b>Networks</b>.</li>
-            <li>🌱 I’m currently learning Golang, netoworking in Golang, basics of ethical hacking, etc...</li>
+            <li>👀 I’m interested in <b>Python</b>, <b>Golang</b>, <b>Ethical Hacking</b> and <b>Networks</b>.</li>
+            <li>🌱 I’m currently learning web development: Gin (Golang), JQuery, etc...</li>
             <li>💞️ I’m looking to collaborate on everything I can</li>
             <li>📫 How to reach me: Discord: JotaEspig#4394</li>
         </ul>
