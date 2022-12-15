@@ -19,7 +19,7 @@
             <li>📫 How to reach me:</li>
             <ul>
                 <li>Discord: JotaEspig#4394</li>
-                <li>E-mail: jotinha1300@gmail.com</li>
+                <li>E-mail: jotaespig@gmail.com</li>
             </ul>
         </ul>
     </div>
