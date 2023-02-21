@@ -1,7 +1,7 @@
 <body>
     <h1>👋 Hi, I'm João Vitor Espig</h1>
     <div>
-        <img height="169em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jotaespig&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+        <img height="169em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jotaespig&show_icons=true&theme=github_dark&count_private=true">
         <img height="169em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jotaespig&layout=compact&langs_count=5&theme=github_dark">
     </div>
     <div style="display: inline_block"><br>
